@@ -227,7 +227,7 @@ puppybutts.forEach((pet) => {
         domString += `</div>` 
     });
 
-printToDom('pet', domString);
+printToDom('pets', domString);
 
 }
 

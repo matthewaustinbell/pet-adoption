@@ -33,6 +33,21 @@ body {
       
   }
 
-  img {
+  button{ text-align: center;
+
+  }
+
+  #All{
+    background-color: wheat
+  }
+
+  #cat {background-color: wheat
+  }
+
+  #dog{background-color: wheat
+
+  }
+
+  #dino{background-color: wheat
 
   }
